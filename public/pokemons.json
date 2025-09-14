@@ -1,0 +1,3632 @@
+[
+  {
+    "Nome": "Bulbasaur",
+    "Hp": 45,
+    "Atk": 49,
+    "Def": 49
+  },
+  {
+    "Nome": "Venusaur",
+    "Hp": 80,
+    "Atk": 100,
+    "Def": 123
+  },
+  {
+    "Nome": "Charmander",
+    "Hp": 39,
+    "Atk": 52,
+    "Def": 43
+  },
+  {
+    "Nome": "Charmeleon",
+    "Hp": 58,
+    "Atk": 64,
+    "Def": 58
+  },
+  {
+    "Nome": "Charizard",
+    "Hp": 78,
+    "Atk": 130,
+    "Def": 111
+  },
+  {
+    "Nome": "Squirtle",
+    "Hp": 44,
+    "Atk": 48,
+    "Def": 65
+  },
+  {
+    "Nome": "Wartortle",
+    "Hp": 59,
+    "Atk": 63,
+    "Def": 80
+  },
+  {
+    "Nome": "Blastoise",
+    "Hp": 79,
+    "Atk": 103,
+    "Def": 120
+  },
+  {
+    "Nome": "Caterpie",
+    "Hp": 45,
+    "Atk": 30,
+    "Def": 35
+  },
+  {
+    "Nome": "Metapod",
+    "Hp": 50,
+    "Atk": 20,
+    "Def": 55
+  },
+  {
+    "Nome": "Butterfree",
+    "Hp": 60,
+    "Atk": 45,
+    "Def": 50
+  },
+  {
+    "Nome": "Weedle",
+    "Hp": 40,
+    "Atk": 35,
+    "Def": 30
+  },
+  {
+    "Nome": "Kakuna",
+    "Hp": 45,
+    "Atk": 25,
+    "Def": 50
+  },
+  {
+    "Nome": "Beedrill",
+    "Hp": 65,
+    "Atk": 90,
+    "Def": 40
+  },
+  {
+    "Nome": "Pidgey",
+    "Hp": 40,
+    "Atk": 45,
+    "Def": 40
+  },
+  {
+    "Nome": "Pidgeotto",
+    "Hp": 63,
+    "Atk": 60,
+    "Def": 55
+  },
+  {
+    "Nome": "Pidgeot",
+    "Hp": 83,
+    "Atk": 80,
+    "Def": 80
+  },
+  {
+    "Nome": "Rattata",
+    "Hp": 30,
+    "Atk": 56,
+    "Def": 35
+  },
+  {
+    "Nome": "Raticate",
+    "Hp": 55,
+    "Atk": 81,
+    "Def": 60
+  },
+  {
+    "Nome": "Fearow",
+    "Hp": 65,
+    "Atk": 90,
+    "Def": 65
+  },
+  {
+    "Nome": "Ekans",
+    "Hp": 35,
+    "Atk": 60,
+    "Def": 44
+  },
+  {
+    "Nome": "Pikachu",
+    "Hp": 35,
+    "Atk": 55,
+    "Def": 40
+  },
+  {
+    "Nome": "Raichu",
+    "Hp": 60,
+    "Atk": 90,
+    "Def": 55
+  },
+  {
+    "Nome": "Sandshrew",
+    "Hp": 50,
+    "Atk": 75,
+    "Def": 85
+  },
+  {
+    "Nome": "Sandslash",
+    "Hp": 75,
+    "Atk": 100,
+    "Def": 110
+  },
+  {
+    "Nome": "NidoranF",
+    "Hp": 55,
+    "Atk": 47,
+    "Def": 52
+  },
+  {
+    "Nome": "Nidorina",
+    "Hp": 70,
+    "Atk": 62,
+    "Def": 67
+  },
+  {
+    "Nome": "Nidoqueen",
+    "Hp": 90,
+    "Atk": 92,
+    "Def": 87
+  },
+  {
+    "Nome": "NidoranM",
+    "Hp": 46,
+    "Atk": 57,
+    "Def": 40
+  },
+  {
+    "Nome": "Nidorino",
+    "Hp": 61,
+    "Atk": 72,
+    "Def": 57
+  },
+  {
+    "Nome": "Nidoking",
+    "Hp": 81,
+    "Atk": 102,
+    "Def": 77
+  },
+  {
+    "Nome": "Clefairy",
+    "Hp": 70,
+    "Atk": 45,
+    "Def": 48
+  },
+  {
+    "Nome": "Clefable",
+    "Hp": 95,
+    "Atk": 70,
+    "Def": 73
+  },
+  {
+    "Nome": "Vulpix",
+    "Hp": 38,
+    "Atk": 41,
+    "Def": 40
+  },
+  {
+    "Nome": "Ninetales",
+    "Hp": 73,
+    "Atk": 76,
+    "Def": 75
+  },
+  {
+    "Nome": "Jigglypuff",
+    "Hp": 115,
+    "Atk": 45,
+    "Def": 20
+  },
+  {
+    "Nome": "Wigglytuff",
+    "Hp": 140,
+    "Atk": 70,
+    "Def": 45
+  },
+  {
+    "Nome": "Zubat",
+    "Hp": 40,
+    "Atk": 45,
+    "Def": 35
+  },
+  {
+    "Nome": "Golbat",
+    "Hp": 75,
+    "Atk": 80,
+    "Def": 70
+  },
+  {
+    "Nome": "Oddish",
+    "Hp": 45,
+    "Atk": 50,
+    "Def": 55
+  },
+  {
+    "Nome": "Gloom",
+    "Hp": 60,
+    "Atk": 65,
+    "Def": 70
+  },
+  {
+    "Nome": "Paras",
+    "Hp": 35,
+    "Atk": 70,
+    "Def": 55
+  },
+  {
+    "Nome": "Parasect",
+    "Hp": 60,
+    "Atk": 95,
+    "Def": 80
+  },
+  {
+    "Nome": "Venomoth",
+    "Hp": 70,
+    "Atk": 65,
+    "Def": 60
+  },
+  {
+    "Nome": "Dugtrio",
+    "Hp": 35,
+    "Atk": 80,
+    "Def": 50
+  },
+  {
+    "Nome": "Persian",
+    "Hp": 65,
+    "Atk": 70,
+    "Def": 60
+  },
+  {
+    "Nome": "Psyduck",
+    "Hp": 50,
+    "Atk": 52,
+    "Def": 48
+  },
+  {
+    "Nome": "Golduck",
+    "Hp": 80,
+    "Atk": 82,
+    "Def": 78
+  },
+  {
+    "Nome": "Primeape",
+    "Hp": 65,
+    "Atk": 105,
+    "Def": 60
+  },
+  {
+    "Nome": "Arcanine",
+    "Hp": 90,
+    "Atk": 110,
+    "Def": 80
+  },
+  {
+    "Nome": "Poliwhirl",
+    "Hp": 65,
+    "Atk": 65,
+    "Def": 65
+  },
+  {
+    "Nome": "Poliwrath",
+    "Hp": 90,
+    "Atk": 95,
+    "Def": 95
+  },
+  {
+    "Nome": "Abra",
+    "Hp": 25,
+    "Atk": 20,
+    "Def": 15
+  },
+  {
+    "Nome": "Kadabra",
+    "Hp": 40,
+    "Atk": 35,
+    "Def": 30
+  },
+  {
+    "Nome": "Alakazam",
+    "Hp": 55,
+    "Atk": 50,
+    "Def": 45
+  },
+  {
+    "Nome": "Machop",
+    "Hp": 70,
+    "Atk": 80,
+    "Def": 50
+  },
+  {
+    "Nome": "Machoke",
+    "Hp": 80,
+    "Atk": 100,
+    "Def": 70
+  },
+  {
+    "Nome": "Machamp",
+    "Hp": 90,
+    "Atk": 130,
+    "Def": 80
+  },
+  {
+    "Nome": "Bellsprout",
+    "Hp": 50,
+    "Atk": 75,
+    "Def": 35
+  },
+  {
+    "Nome": "Weepinbell",
+    "Hp": 65,
+    "Atk": 90,
+    "Def": 50
+  },
+  {
+    "Nome": "Victreebel",
+    "Hp": 80,
+    "Atk": 105,
+    "Def": 65
+  },
+  {
+    "Nome": "Tentacool",
+    "Hp": 40,
+    "Atk": 40,
+    "Def": 35
+  },
+  {
+    "Nome": "Tentacruel",
+    "Hp": 80,
+    "Atk": 70,
+    "Def": 65
+  },
+  {
+    "Nome": "Geodude",
+    "Hp": 40,
+    "Atk": 80,
+    "Def": 100
+  },
+  {
+    "Nome": "Graveler",
+    "Hp": 55,
+    "Atk": 95,
+    "Def": 115
+  },
+  {
+    "Nome": "Golem",
+    "Hp": 80,
+    "Atk": 120,
+    "Def": 130
+  },
+  {
+    "Nome": "Rapidash",
+    "Hp": 65,
+    "Atk": 100,
+    "Def": 70
+  },
+  {
+    "Nome": "Slowbro",
+    "Hp": 95,
+    "Atk": 75,
+    "Def": 110
+  },
+  {
+    "Nome": "Magnemite",
+    "Hp": 25,
+    "Atk": 35,
+    "Def": 70
+  },
+  {
+    "Nome": "Magneton",
+    "Hp": 50,
+    "Atk": 60,
+    "Def": 95
+  },
+  {
+    "Nome": "Farfetch'd",
+    "Hp": 52,
+    "Atk": 65,
+    "Def": 55
+  },
+  {
+    "Nome": "Dodrio",
+    "Hp": 60,
+    "Atk": 110,
+    "Def": 70
+  },
+  {
+    "Nome": "Seel",
+    "Hp": 65,
+    "Atk": 45,
+    "Def": 55
+  },
+  {
+    "Nome": "Dewgong",
+    "Hp": 90,
+    "Atk": 70,
+    "Def": 80
+  },
+  {
+    "Nome": "Grimer",
+    "Hp": 80,
+    "Atk": 80,
+    "Def": 50
+  },
+  {
+    "Nome": "Muk",
+    "Hp": 105,
+    "Atk": 105,
+    "Def": 75
+  },
+  {
+    "Nome": "Shellder",
+    "Hp": 30,
+    "Atk": 65,
+    "Def": 100
+  },
+  {
+    "Nome": "Gastly",
+    "Hp": 30,
+    "Atk": 35,
+    "Def": 30
+  },
+  {
+    "Nome": "Haunter",
+    "Hp": 45,
+    "Atk": 50,
+    "Def": 45
+  },
+  {
+    "Nome": "Gengar",
+    "Hp": 60,
+    "Atk": 65,
+    "Def": 60
+  },
+  {
+    "Nome": "Hypno",
+    "Hp": 85,
+    "Atk": 73,
+    "Def": 70
+  },
+  {
+    "Nome": "Kingler",
+    "Hp": 55,
+    "Atk": 130,
+    "Def": 115
+  },
+  {
+    "Nome": "Voltorb",
+    "Hp": 40,
+    "Atk": 30,
+    "Def": 50
+  },
+  {
+    "Nome": "Electrode",
+    "Hp": 60,
+    "Atk": 50,
+    "Def": 70
+  },
+  {
+    "Nome": "Exeggcute",
+    "Hp": 60,
+    "Atk": 40,
+    "Def": 80
+  },
+  {
+    "Nome": "Exeggutor",
+    "Hp": 95,
+    "Atk": 95,
+    "Def": 85
+  },
+  {
+    "Nome": "Cubone",
+    "Hp": 50,
+    "Atk": 50,
+    "Def": 95
+  },
+  {
+    "Nome": "Marowak",
+    "Hp": 60,
+    "Atk": 80,
+    "Def": 110
+  },
+  {
+    "Nome": "Hitmonlee",
+    "Hp": 50,
+    "Atk": 120,
+    "Def": 53
+  },
+  {
+    "Nome": "Hitmonchan",
+    "Hp": 50,
+    "Atk": 105,
+    "Def": 79
+  },
+  {
+    "Nome": "Lickitung",
+    "Hp": 90,
+    "Atk": 55,
+    "Def": 75
+  },
+  {
+    "Nome": "Weezing",
+    "Hp": 65,
+    "Atk": 90,
+    "Def": 120
+  },
+  {
+    "Nome": "Rhydon",
+    "Hp": 105,
+    "Atk": 130,
+    "Def": 120
+  },
+  {
+    "Nome": "Chansey",
+    "Hp": 250,
+    "Atk": 5,
+    "Def": 5
+  },
+  {
+    "Nome": "Tangela",
+    "Hp": 65,
+    "Atk": 55,
+    "Def": 115
+  },
+  {
+    "Nome": "Kangaskhan",
+    "Hp": 105,
+    "Atk": 125,
+    "Def": 100
+  },
+  {
+    "Nome": "Horsea",
+    "Hp": 30,
+    "Atk": 40,
+    "Def": 70
+  },
+  {
+    "Nome": "Seadra",
+    "Hp": 55,
+    "Atk": 65,
+    "Def": 95
+  },
+  {
+    "Nome": "Goldeen",
+    "Hp": 45,
+    "Atk": 67,
+    "Def": 60
+  },
+  {
+    "Nome": "Seaking",
+    "Hp": 80,
+    "Atk": 92,
+    "Def": 65
+  },
+  {
+    "Nome": "Staryu",
+    "Hp": 30,
+    "Atk": 45,
+    "Def": 55
+  },
+  {
+    "Nome": "Starmie",
+    "Hp": 60,
+    "Atk": 75,
+    "Def": 85
+  },
+  {
+    "Nome": "Mr.",
+    "Hp": 0,
+    "Atk": 40,
+    "Def": 45
+  },
+  {
+    "Nome": "Scyther",
+    "Hp": 70,
+    "Atk": 110,
+    "Def": 80
+  },
+  {
+    "Nome": "Jynx",
+    "Hp": 65,
+    "Atk": 50,
+    "Def": 35
+  },
+  {
+    "Nome": "Electabuzz",
+    "Hp": 65,
+    "Atk": 83,
+    "Def": 57
+  },
+  {
+    "Nome": "Magmar",
+    "Hp": 65,
+    "Atk": 95,
+    "Def": 57
+  },
+  {
+    "Nome": "Pinsir",
+    "Hp": 65,
+    "Atk": 155,
+    "Def": 120
+  },
+  {
+    "Nome": "Tauros",
+    "Hp": 75,
+    "Atk": 100,
+    "Def": 95
+  },
+  {
+    "Nome": "Magikarp",
+    "Hp": 20,
+    "Atk": 10,
+    "Def": 55
+  },
+  {
+    "Nome": "Gyarados",
+    "Hp": 95,
+    "Atk": 125,
+    "Def": 79
+  },
+  {
+    "Nome": "Lapras",
+    "Hp": 130,
+    "Atk": 85,
+    "Def": 80
+  },
+  {
+    "Nome": "Ditto",
+    "Hp": 48,
+    "Atk": 48,
+    "Def": 48
+  },
+  {
+    "Nome": "Eevee",
+    "Hp": 55,
+    "Atk": 55,
+    "Def": 50
+  },
+  {
+    "Nome": "Vaporeon",
+    "Hp": 130,
+    "Atk": 65,
+    "Def": 60
+  },
+  {
+    "Nome": "Jolteon",
+    "Hp": 65,
+    "Atk": 65,
+    "Def": 60
+  },
+  {
+    "Nome": "Flareon",
+    "Hp": 65,
+    "Atk": 130,
+    "Def": 60
+  },
+  {
+    "Nome": "Porygon",
+    "Hp": 65,
+    "Atk": 60,
+    "Def": 70
+  },
+  {
+    "Nome": "Omanyte",
+    "Hp": 35,
+    "Atk": 40,
+    "Def": 100
+  },
+  {
+    "Nome": "Omastar",
+    "Hp": 70,
+    "Atk": 60,
+    "Def": 125
+  },
+  {
+    "Nome": "Kabuto",
+    "Hp": 30,
+    "Atk": 80,
+    "Def": 90
+  },
+  {
+    "Nome": "Kabutops",
+    "Hp": 60,
+    "Atk": 115,
+    "Def": 105
+  },
+  {
+    "Nome": "Aerodactyl",
+    "Hp": 80,
+    "Atk": 105,
+    "Def": 65
+  },
+  {
+    "Nome": "Snorlax",
+    "Hp": 160,
+    "Atk": 110,
+    "Def": 65
+  },
+  {
+    "Nome": "Articuno",
+    "Hp": 90,
+    "Atk": 85,
+    "Def": 100
+  },
+  {
+    "Nome": "Zapdos",
+    "Hp": 90,
+    "Atk": 90,
+    "Def": 85
+  },
+  {
+    "Nome": "Moltres",
+    "Hp": 90,
+    "Atk": 100,
+    "Def": 90
+  },
+  {
+    "Nome": "Dratini",
+    "Hp": 41,
+    "Atk": 64,
+    "Def": 45
+  },
+  {
+    "Nome": "Dragonair",
+    "Hp": 61,
+    "Atk": 84,
+    "Def": 65
+  },
+  {
+    "Nome": "Dragonite",
+    "Hp": 91,
+    "Atk": 134,
+    "Def": 95
+  },
+  {
+    "Nome": "Mewtwo",
+    "Hp": 106,
+    "Atk": 150,
+    "Def": 70
+  },
+  {
+    "Nome": "Mew",
+    "Hp": 100,
+    "Atk": 100,
+    "Def": 100
+  },
+  {
+    "Nome": "Chikorita",
+    "Hp": 45,
+    "Atk": 49,
+    "Def": 65
+  },
+  {
+    "Nome": "Quilava",
+    "Hp": 58,
+    "Atk": 64,
+    "Def": 58
+  },
+  {
+    "Nome": "Totodile",
+    "Hp": 50,
+    "Atk": 65,
+    "Def": 64
+  },
+  {
+    "Nome": "Croconaw",
+    "Hp": 65,
+    "Atk": 80,
+    "Def": 80
+  },
+  {
+    "Nome": "Feraligatr",
+    "Hp": 85,
+    "Atk": 105,
+    "Def": 100
+  },
+  {
+    "Nome": "Sentret",
+    "Hp": 35,
+    "Atk": 46,
+    "Def": 34
+  },
+  {
+    "Nome": "Furret",
+    "Hp": 85,
+    "Atk": 76,
+    "Def": 64
+  },
+  {
+    "Nome": "Hoothoot",
+    "Hp": 60,
+    "Atk": 30,
+    "Def": 30
+  },
+  {
+    "Nome": "Noctowl",
+    "Hp": 100,
+    "Atk": 50,
+    "Def": 50
+  },
+  {
+    "Nome": "Ledyba",
+    "Hp": 40,
+    "Atk": 20,
+    "Def": 30
+  },
+  {
+    "Nome": "Ledian",
+    "Hp": 55,
+    "Atk": 35,
+    "Def": 50
+  },
+  {
+    "Nome": "Spinarak",
+    "Hp": 40,
+    "Atk": 60,
+    "Def": 40
+  },
+  {
+    "Nome": "Ariados",
+    "Hp": 70,
+    "Atk": 90,
+    "Def": 70
+  },
+  {
+    "Nome": "Crobat",
+    "Hp": 85,
+    "Atk": 90,
+    "Def": 80
+  },
+  {
+    "Nome": "Chinchou",
+    "Hp": 75,
+    "Atk": 38,
+    "Def": 38
+  },
+  {
+    "Nome": "Lanturn",
+    "Hp": 125,
+    "Atk": 58,
+    "Def": 58
+  },
+  {
+    "Nome": "Pichu",
+    "Hp": 20,
+    "Atk": 40,
+    "Def": 15
+  },
+  {
+    "Nome": "Cleffa",
+    "Hp": 50,
+    "Atk": 25,
+    "Def": 28
+  },
+  {
+    "Nome": "Igglybuff",
+    "Hp": 90,
+    "Atk": 30,
+    "Def": 15
+  },
+  {
+    "Nome": "Togepi",
+    "Hp": 35,
+    "Atk": 20,
+    "Def": 65
+  },
+  {
+    "Nome": "Togetic",
+    "Hp": 55,
+    "Atk": 40,
+    "Def": 85
+  },
+  {
+    "Nome": "Natu",
+    "Hp": 40,
+    "Atk": 50,
+    "Def": 45
+  },
+  {
+    "Nome": "Xatu",
+    "Hp": 65,
+    "Atk": 75,
+    "Def": 70
+  },
+  {
+    "Nome": "Mareep",
+    "Hp": 55,
+    "Atk": 40,
+    "Def": 40
+  },
+  {
+    "Nome": "Flaaffy",
+    "Hp": 70,
+    "Atk": 55,
+    "Def": 55
+  },
+  {
+    "Nome": "Ampharos",
+    "Hp": 90,
+    "Atk": 95,
+    "Def": 105
+  },
+  {
+    "Nome": "Bellossom",
+    "Hp": 75,
+    "Atk": 80,
+    "Def": 95
+  },
+  {
+    "Nome": "Marill",
+    "Hp": 70,
+    "Atk": 20,
+    "Def": 50
+  },
+  {
+    "Nome": "Politoed",
+    "Hp": 90,
+    "Atk": 75,
+    "Def": 75
+  },
+  {
+    "Nome": "Skiploom",
+    "Hp": 55,
+    "Atk": 45,
+    "Def": 50
+  },
+  {
+    "Nome": "Aipom",
+    "Hp": 55,
+    "Atk": 70,
+    "Def": 55
+  },
+  {
+    "Nome": "Sunflora",
+    "Hp": 75,
+    "Atk": 75,
+    "Def": 55
+  },
+  {
+    "Nome": "Yanma",
+    "Hp": 65,
+    "Atk": 65,
+    "Def": 45
+  },
+  {
+    "Nome": "Wooper",
+    "Hp": 55,
+    "Atk": 45,
+    "Def": 45
+  },
+  {
+    "Nome": "Quagsire",
+    "Hp": 95,
+    "Atk": 85,
+    "Def": 85
+  },
+  {
+    "Nome": "Espeon",
+    "Hp": 65,
+    "Atk": 65,
+    "Def": 60
+  },
+  {
+    "Nome": "Umbreon",
+    "Hp": 95,
+    "Atk": 65,
+    "Def": 110
+  },
+  {
+    "Nome": "Murkrow",
+    "Hp": 60,
+    "Atk": 85,
+    "Def": 42
+  },
+  {
+    "Nome": "Slowking",
+    "Hp": 95,
+    "Atk": 75,
+    "Def": 80
+  },
+  {
+    "Nome": "Misdreavus",
+    "Hp": 60,
+    "Atk": 60,
+    "Def": 60
+  },
+  {
+    "Nome": "Unown",
+    "Hp": 48,
+    "Atk": 72,
+    "Def": 48
+  },
+  {
+    "Nome": "Wobbuffet",
+    "Hp": 190,
+    "Atk": 33,
+    "Def": 58
+  },
+  {
+    "Nome": "Girafarig",
+    "Hp": 70,
+    "Atk": 80,
+    "Def": 65
+  },
+  {
+    "Nome": "Pineco",
+    "Hp": 50,
+    "Atk": 65,
+    "Def": 90
+  },
+  {
+    "Nome": "Dunsparce",
+    "Hp": 100,
+    "Atk": 70,
+    "Def": 70
+  },
+  {
+    "Nome": "Steelix",
+    "Hp": 75,
+    "Atk": 125,
+    "Def": 230
+  },
+  {
+    "Nome": "Snubbull",
+    "Hp": 60,
+    "Atk": 80,
+    "Def": 50
+  },
+  {
+    "Nome": "Granbull",
+    "Hp": 90,
+    "Atk": 120,
+    "Def": 75
+  },
+  {
+    "Nome": "Qwilfish",
+    "Hp": 65,
+    "Atk": 95,
+    "Def": 75
+  },
+  {
+    "Nome": "Scizor",
+    "Hp": 70,
+    "Atk": 130,
+    "Def": 100
+  },
+  {
+    "Nome": "Shuckle",
+    "Hp": 20,
+    "Atk": 10,
+    "Def": 230
+  },
+  {
+    "Nome": "Teddiursa",
+    "Hp": 60,
+    "Atk": 80,
+    "Def": 50
+  },
+  {
+    "Nome": "Ursaring",
+    "Hp": 90,
+    "Atk": 130,
+    "Def": 75
+  },
+  {
+    "Nome": "Slugma",
+    "Hp": 40,
+    "Atk": 40,
+    "Def": 40
+  },
+  {
+    "Nome": "Magcargo",
+    "Hp": 50,
+    "Atk": 50,
+    "Def": 120
+  },
+  {
+    "Nome": "Swinub",
+    "Hp": 50,
+    "Atk": 50,
+    "Def": 40
+  },
+  {
+    "Nome": "Piloswine",
+    "Hp": 100,
+    "Atk": 100,
+    "Def": 80
+  },
+  {
+    "Nome": "Remoraid",
+    "Hp": 35,
+    "Atk": 65,
+    "Def": 35
+  },
+  {
+    "Nome": "Octillery",
+    "Hp": 75,
+    "Atk": 105,
+    "Def": 75
+  },
+  {
+    "Nome": "Delibird",
+    "Hp": 45,
+    "Atk": 55,
+    "Def": 45
+  },
+  {
+    "Nome": "Skarmory",
+    "Hp": 65,
+    "Atk": 80,
+    "Def": 140
+  },
+  {
+    "Nome": "Houndour",
+    "Hp": 45,
+    "Atk": 60,
+    "Def": 30
+  },
+  {
+    "Nome": "Houndoom",
+    "Hp": 75,
+    "Atk": 90,
+    "Def": 50
+  },
+  {
+    "Nome": "Kingdra",
+    "Hp": 75,
+    "Atk": 95,
+    "Def": 95
+  },
+  {
+    "Nome": "Donphan",
+    "Hp": 90,
+    "Atk": 120,
+    "Def": 120
+  },
+  {
+    "Nome": "Porygon2",
+    "Hp": 85,
+    "Atk": 80,
+    "Def": 90
+  },
+  {
+    "Nome": "Stantler",
+    "Hp": 73,
+    "Atk": 95,
+    "Def": 62
+  },
+  {
+    "Nome": "Smeargle",
+    "Hp": 55,
+    "Atk": 20,
+    "Def": 35
+  },
+  {
+    "Nome": "Tyrogue",
+    "Hp": 35,
+    "Atk": 35,
+    "Def": 35
+  },
+  {
+    "Nome": "Hitmontop",
+    "Hp": 50,
+    "Atk": 95,
+    "Def": 95
+  },
+  {
+    "Nome": "Elekid",
+    "Hp": 45,
+    "Atk": 63,
+    "Def": 37
+  },
+  {
+    "Nome": "Magby",
+    "Hp": 45,
+    "Atk": 75,
+    "Def": 37
+  },
+  {
+    "Nome": "Miltank",
+    "Hp": 95,
+    "Atk": 80,
+    "Def": 105
+  },
+  {
+    "Nome": "Raikou",
+    "Hp": 90,
+    "Atk": 85,
+    "Def": 75
+  },
+  {
+    "Nome": "Entei",
+    "Hp": 115,
+    "Atk": 115,
+    "Def": 85
+  },
+  {
+    "Nome": "Suicune",
+    "Hp": 100,
+    "Atk": 75,
+    "Def": 115
+  },
+  {
+    "Nome": "Larvitar",
+    "Hp": 50,
+    "Atk": 64,
+    "Def": 50
+  },
+  {
+    "Nome": "Pupitar",
+    "Hp": 70,
+    "Atk": 84,
+    "Def": 70
+  },
+  {
+    "Nome": "Tyranitar",
+    "Hp": 100,
+    "Atk": 164,
+    "Def": 150
+  },
+  {
+    "Nome": "Lugia",
+    "Hp": 106,
+    "Atk": 90,
+    "Def": 130
+  },
+  {
+    "Nome": "Ho-oh",
+    "Hp": 106,
+    "Atk": 130,
+    "Def": 90
+  },
+  {
+    "Nome": "Treecko",
+    "Hp": 40,
+    "Atk": 45,
+    "Def": 35
+  },
+  {
+    "Nome": "Grovyle",
+    "Hp": 50,
+    "Atk": 65,
+    "Def": 45
+  },
+  {
+    "Nome": "Sceptile",
+    "Hp": 70,
+    "Atk": 85,
+    "Def": 65
+  },
+  {
+    "Nome": "Torchic",
+    "Hp": 45,
+    "Atk": 60,
+    "Def": 40
+  },
+  {
+    "Nome": "Combusken",
+    "Hp": 60,
+    "Atk": 85,
+    "Def": 60
+  },
+  {
+    "Nome": "Blaziken",
+    "Hp": 80,
+    "Atk": 120,
+    "Def": 70
+  },
+  {
+    "Nome": "Mudkip",
+    "Hp": 50,
+    "Atk": 70,
+    "Def": 50
+  },
+  {
+    "Nome": "Marshtomp",
+    "Hp": 70,
+    "Atk": 85,
+    "Def": 70
+  },
+  {
+    "Nome": "Swampert",
+    "Hp": 100,
+    "Atk": 150,
+    "Def": 110
+  },
+  {
+    "Nome": "Poochyena",
+    "Hp": 35,
+    "Atk": 55,
+    "Def": 35
+  },
+  {
+    "Nome": "Mightyena",
+    "Hp": 70,
+    "Atk": 90,
+    "Def": 70
+  },
+  {
+    "Nome": "Zigzagoon",
+    "Hp": 38,
+    "Atk": 30,
+    "Def": 41
+  },
+  {
+    "Nome": "Linoone",
+    "Hp": 78,
+    "Atk": 70,
+    "Def": 61
+  },
+  {
+    "Nome": "Wurmple",
+    "Hp": 45,
+    "Atk": 45,
+    "Def": 35
+  },
+  {
+    "Nome": "Beautifly",
+    "Hp": 60,
+    "Atk": 70,
+    "Def": 50
+  },
+  {
+    "Nome": "Cascoon",
+    "Hp": 50,
+    "Atk": 35,
+    "Def": 55
+  },
+  {
+    "Nome": "Dustox",
+    "Hp": 60,
+    "Atk": 50,
+    "Def": 70
+  },
+  {
+    "Nome": "Lotad",
+    "Hp": 40,
+    "Atk": 30,
+    "Def": 30
+  },
+  {
+    "Nome": "Lombre",
+    "Hp": 60,
+    "Atk": 50,
+    "Def": 50
+  },
+  {
+    "Nome": "Ludicolo",
+    "Hp": 80,
+    "Atk": 70,
+    "Def": 70
+  },
+  {
+    "Nome": "Seedot",
+    "Hp": 40,
+    "Atk": 40,
+    "Def": 50
+  },
+  {
+    "Nome": "Nuzleaf",
+    "Hp": 70,
+    "Atk": 70,
+    "Def": 40
+  },
+  {
+    "Nome": "Shiftry",
+    "Hp": 90,
+    "Atk": 100,
+    "Def": 60
+  },
+  {
+    "Nome": "Swellow",
+    "Hp": 60,
+    "Atk": 85,
+    "Def": 60
+  },
+  {
+    "Nome": "Wingull",
+    "Hp": 40,
+    "Atk": 30,
+    "Def": 30
+  },
+  {
+    "Nome": "Pelipper",
+    "Hp": 60,
+    "Atk": 50,
+    "Def": 100
+  },
+  {
+    "Nome": "Ralts",
+    "Hp": 28,
+    "Atk": 25,
+    "Def": 25
+  },
+  {
+    "Nome": "Kirlia",
+    "Hp": 38,
+    "Atk": 35,
+    "Def": 35
+  },
+  {
+    "Nome": "Gardevoir",
+    "Hp": 68,
+    "Atk": 65,
+    "Def": 65
+  },
+  {
+    "Nome": "Surskit",
+    "Hp": 40,
+    "Atk": 30,
+    "Def": 32
+  },
+  {
+    "Nome": "Masquerain",
+    "Hp": 70,
+    "Atk": 60,
+    "Def": 62
+  },
+  {
+    "Nome": "Shroomish",
+    "Hp": 60,
+    "Atk": 40,
+    "Def": 60
+  },
+  {
+    "Nome": "Breloom",
+    "Hp": 60,
+    "Atk": 130,
+    "Def": 80
+  },
+  {
+    "Nome": "Slakoth",
+    "Hp": 60,
+    "Atk": 60,
+    "Def": 60
+  },
+  {
+    "Nome": "Slaking",
+    "Hp": 150,
+    "Atk": 160,
+    "Def": 100
+  },
+  {
+    "Nome": "Ninjask",
+    "Hp": 61,
+    "Atk": 90,
+    "Def": 45
+  },
+  {
+    "Nome": "Shedinja",
+    "Hp": 1,
+    "Atk": 90,
+    "Def": 45
+  },
+  {
+    "Nome": "Whismur",
+    "Hp": 64,
+    "Atk": 51,
+    "Def": 23
+  },
+  {
+    "Nome": "Loudred",
+    "Hp": 84,
+    "Atk": 71,
+    "Def": 43
+  },
+  {
+    "Nome": "Exploud",
+    "Hp": 104,
+    "Atk": 91,
+    "Def": 63
+  },
+  {
+    "Nome": "Makuhita",
+    "Hp": 72,
+    "Atk": 60,
+    "Def": 30
+  },
+  {
+    "Nome": "Hariyama",
+    "Hp": 144,
+    "Atk": 120,
+    "Def": 60
+  },
+  {
+    "Nome": "Azurill",
+    "Hp": 50,
+    "Atk": 20,
+    "Def": 40
+  },
+  {
+    "Nome": "Nosepass",
+    "Hp": 30,
+    "Atk": 45,
+    "Def": 135
+  },
+  {
+    "Nome": "Delcatty",
+    "Hp": 70,
+    "Atk": 65,
+    "Def": 65
+  },
+  {
+    "Nome": "Sableye",
+    "Hp": 50,
+    "Atk": 85,
+    "Def": 125
+  },
+  {
+    "Nome": "Mawile",
+    "Hp": 50,
+    "Atk": 85,
+    "Def": 85
+  },
+  {
+    "Nome": "Aron",
+    "Hp": 50,
+    "Atk": 70,
+    "Def": 100
+  },
+  {
+    "Nome": "Lairon",
+    "Hp": 60,
+    "Atk": 90,
+    "Def": 140
+  },
+  {
+    "Nome": "Aggron",
+    "Hp": 70,
+    "Atk": 110,
+    "Def": 180
+  },
+  {
+    "Nome": "Meditite",
+    "Hp": 30,
+    "Atk": 40,
+    "Def": 55
+  },
+  {
+    "Nome": "Medicham",
+    "Hp": 60,
+    "Atk": 100,
+    "Def": 85
+  },
+  {
+    "Nome": "Manectric",
+    "Hp": 70,
+    "Atk": 75,
+    "Def": 80
+  },
+  {
+    "Nome": "Minun",
+    "Hp": 60,
+    "Atk": 40,
+    "Def": 50
+  },
+  {
+    "Nome": "Illumise",
+    "Hp": 65,
+    "Atk": 47,
+    "Def": 55
+  },
+  {
+    "Nome": "Roselia",
+    "Hp": 50,
+    "Atk": 60,
+    "Def": 45
+  },
+  {
+    "Nome": "Gulpin",
+    "Hp": 70,
+    "Atk": 43,
+    "Def": 53
+  },
+  {
+    "Nome": "Swalot",
+    "Hp": 100,
+    "Atk": 73,
+    "Def": 83
+  },
+  {
+    "Nome": "Carvanha",
+    "Hp": 45,
+    "Atk": 90,
+    "Def": 20
+  },
+  {
+    "Nome": "Sharpedo",
+    "Hp": 70,
+    "Atk": 140,
+    "Def": 70
+  },
+  {
+    "Nome": "Wailmer",
+    "Hp": 130,
+    "Atk": 70,
+    "Def": 35
+  },
+  {
+    "Nome": "Numel",
+    "Hp": 60,
+    "Atk": 60,
+    "Def": 40
+  },
+  {
+    "Nome": "Camerupt",
+    "Hp": 70,
+    "Atk": 100,
+    "Def": 70
+  },
+  {
+    "Nome": "Torkoal",
+    "Hp": 70,
+    "Atk": 85,
+    "Def": 140
+  },
+  {
+    "Nome": "Grumpig",
+    "Hp": 80,
+    "Atk": 45,
+    "Def": 65
+  },
+  {
+    "Nome": "Trapinch",
+    "Hp": 45,
+    "Atk": 100,
+    "Def": 45
+  },
+  {
+    "Nome": "Vibrava",
+    "Hp": 50,
+    "Atk": 70,
+    "Def": 50
+  },
+  {
+    "Nome": "Flygon",
+    "Hp": 80,
+    "Atk": 100,
+    "Def": 80
+  },
+  {
+    "Nome": "Cacnea",
+    "Hp": 50,
+    "Atk": 85,
+    "Def": 40
+  },
+  {
+    "Nome": "Swablu",
+    "Hp": 45,
+    "Atk": 40,
+    "Def": 60
+  },
+  {
+    "Nome": "Altaria",
+    "Hp": 75,
+    "Atk": 70,
+    "Def": 90
+  },
+  {
+    "Nome": "Zangoose",
+    "Hp": 73,
+    "Atk": 115,
+    "Def": 60
+  },
+  {
+    "Nome": "Seviper",
+    "Hp": 73,
+    "Atk": 100,
+    "Def": 60
+  },
+  {
+    "Nome": "Lunatone",
+    "Hp": 70,
+    "Atk": 55,
+    "Def": 65
+  },
+  {
+    "Nome": "Solrock",
+    "Hp": 70,
+    "Atk": 95,
+    "Def": 85
+  },
+  {
+    "Nome": "Whiscash",
+    "Hp": 110,
+    "Atk": 78,
+    "Def": 73
+  },
+  {
+    "Nome": "Corphish",
+    "Hp": 43,
+    "Atk": 80,
+    "Def": 65
+  },
+  {
+    "Nome": "Crawdaunt",
+    "Hp": 63,
+    "Atk": 120,
+    "Def": 85
+  },
+  {
+    "Nome": "Baltoy",
+    "Hp": 40,
+    "Atk": 40,
+    "Def": 55
+  },
+  {
+    "Nome": "Claydol",
+    "Hp": 60,
+    "Atk": 70,
+    "Def": 105
+  },
+  {
+    "Nome": "Lileep",
+    "Hp": 66,
+    "Atk": 41,
+    "Def": 77
+  },
+  {
+    "Nome": "Anorith",
+    "Hp": 45,
+    "Atk": 95,
+    "Def": 50
+  },
+  {
+    "Nome": "Armaldo",
+    "Hp": 75,
+    "Atk": 125,
+    "Def": 100
+  },
+  {
+    "Nome": "Feebas",
+    "Hp": 20,
+    "Atk": 15,
+    "Def": 20
+  },
+  {
+    "Nome": "Milotic",
+    "Hp": 95,
+    "Atk": 60,
+    "Def": 79
+  },
+  {
+    "Nome": "Castform",
+    "Hp": 70,
+    "Atk": 70,
+    "Def": 70
+  },
+  {
+    "Nome": "Kecleon",
+    "Hp": 60,
+    "Atk": 90,
+    "Def": 70
+  },
+  {
+    "Nome": "Shuppet",
+    "Hp": 44,
+    "Atk": 75,
+    "Def": 35
+  },
+  {
+    "Nome": "Banette",
+    "Hp": 64,
+    "Atk": 115,
+    "Def": 65
+  },
+  {
+    "Nome": "Duskull",
+    "Hp": 20,
+    "Atk": 40,
+    "Def": 90
+  },
+  {
+    "Nome": "Dusclops",
+    "Hp": 40,
+    "Atk": 70,
+    "Def": 130
+  },
+  {
+    "Nome": "Tropius",
+    "Hp": 99,
+    "Atk": 68,
+    "Def": 83
+  },
+  {
+    "Nome": "Chimecho",
+    "Hp": 65,
+    "Atk": 50,
+    "Def": 70
+  },
+  {
+    "Nome": "Absol",
+    "Hp": 65,
+    "Atk": 150,
+    "Def": 60
+  },
+  {
+    "Nome": "Wynaut",
+    "Hp": 95,
+    "Atk": 23,
+    "Def": 48
+  },
+  {
+    "Nome": "Snorunt",
+    "Hp": 50,
+    "Atk": 50,
+    "Def": 50
+  },
+  {
+    "Nome": "Glalie",
+    "Hp": 80,
+    "Atk": 80,
+    "Def": 80
+  },
+  {
+    "Nome": "Sealeo",
+    "Hp": 90,
+    "Atk": 60,
+    "Def": 70
+  },
+  {
+    "Nome": "Walrein",
+    "Hp": 110,
+    "Atk": 80,
+    "Def": 90
+  },
+  {
+    "Nome": "Clamperl",
+    "Hp": 35,
+    "Atk": 64,
+    "Def": 85
+  },
+  {
+    "Nome": "Huntail",
+    "Hp": 55,
+    "Atk": 104,
+    "Def": 105
+  },
+  {
+    "Nome": "Gorebyss",
+    "Hp": 55,
+    "Atk": 84,
+    "Def": 105
+  },
+  {
+    "Nome": "Relicanth",
+    "Hp": 100,
+    "Atk": 90,
+    "Def": 130
+  },
+  {
+    "Nome": "Luvdisc",
+    "Hp": 43,
+    "Atk": 30,
+    "Def": 55
+  },
+  {
+    "Nome": "Bagon",
+    "Hp": 45,
+    "Atk": 75,
+    "Def": 60
+  },
+  {
+    "Nome": "Shelgon",
+    "Hp": 65,
+    "Atk": 95,
+    "Def": 100
+  },
+  {
+    "Nome": "Salamence",
+    "Hp": 95,
+    "Atk": 135,
+    "Def": 80
+  },
+  {
+    "Nome": "Beldum",
+    "Hp": 40,
+    "Atk": 55,
+    "Def": 80
+  },
+  {
+    "Nome": "Metang",
+    "Hp": 60,
+    "Atk": 75,
+    "Def": 100
+  },
+  {
+    "Nome": "Metagross",
+    "Hp": 80,
+    "Atk": 135,
+    "Def": 130
+  },
+  {
+    "Nome": "Regirock",
+    "Hp": 80,
+    "Atk": 100,
+    "Def": 200
+  },
+  {
+    "Nome": "Regice",
+    "Hp": 80,
+    "Atk": 50,
+    "Def": 100
+  },
+  {
+    "Nome": "Registeel",
+    "Hp": 80,
+    "Atk": 75,
+    "Def": 150
+  },
+  {
+    "Nome": "Latias",
+    "Hp": 80,
+    "Atk": 80,
+    "Def": 90
+  },
+  {
+    "Nome": "Latios",
+    "Hp": 80,
+    "Atk": 90,
+    "Def": 80
+  },
+  {
+    "Nome": "Kyogre",
+    "Hp": 100,
+    "Atk": 150,
+    "Def": 90
+  },
+  {
+    "Nome": "Groudon",
+    "Hp": 100,
+    "Atk": 180,
+    "Def": 160
+  },
+  {
+    "Nome": "Rayquaza",
+    "Hp": 105,
+    "Atk": 150,
+    "Def": 90
+  },
+  {
+    "Nome": "Deoxys",
+    "Hp": 50,
+    "Atk": 95,
+    "Def": 90
+  },
+  {
+    "Nome": "Turtwig",
+    "Hp": 55,
+    "Atk": 68,
+    "Def": 64
+  },
+  {
+    "Nome": "Grotle",
+    "Hp": 75,
+    "Atk": 89,
+    "Def": 85
+  },
+  {
+    "Nome": "Torterra",
+    "Hp": 95,
+    "Atk": 109,
+    "Def": 105
+  },
+  {
+    "Nome": "Monferno",
+    "Hp": 64,
+    "Atk": 78,
+    "Def": 52
+  },
+  {
+    "Nome": "Prinplup",
+    "Hp": 64,
+    "Atk": 66,
+    "Def": 68
+  },
+  {
+    "Nome": "Empoleon",
+    "Hp": 84,
+    "Atk": 86,
+    "Def": 88
+  },
+  {
+    "Nome": "Starly",
+    "Hp": 40,
+    "Atk": 55,
+    "Def": 30
+  },
+  {
+    "Nome": "Staravia",
+    "Hp": 55,
+    "Atk": 75,
+    "Def": 50
+  },
+  {
+    "Nome": "Bidoof",
+    "Hp": 59,
+    "Atk": 45,
+    "Def": 40
+  },
+  {
+    "Nome": "Kricketot",
+    "Hp": 37,
+    "Atk": 25,
+    "Def": 41
+  },
+  {
+    "Nome": "Kricketune",
+    "Hp": 77,
+    "Atk": 85,
+    "Def": 51
+  },
+  {
+    "Nome": "Shinx",
+    "Hp": 45,
+    "Atk": 65,
+    "Def": 34
+  },
+  {
+    "Nome": "Luxray",
+    "Hp": 80,
+    "Atk": 120,
+    "Def": 79
+  },
+  {
+    "Nome": "Roserade",
+    "Hp": 60,
+    "Atk": 70,
+    "Def": 65
+  },
+  {
+    "Nome": "Rampardos",
+    "Hp": 97,
+    "Atk": 165,
+    "Def": 60
+  },
+  {
+    "Nome": "Shieldon",
+    "Hp": 30,
+    "Atk": 42,
+    "Def": 118
+  },
+  {
+    "Nome": "Bastiodon",
+    "Hp": 60,
+    "Atk": 52,
+    "Def": 168
+  },
+  {
+    "Nome": "Burmy",
+    "Hp": 40,
+    "Atk": 29,
+    "Def": 45
+  },
+  {
+    "Nome": "Wormadam",
+    "Hp": 60,
+    "Atk": 79,
+    "Def": 105
+  },
+  {
+    "Nome": "Mothim",
+    "Hp": 70,
+    "Atk": 94,
+    "Def": 50
+  },
+  {
+    "Nome": "Vespiquen",
+    "Hp": 70,
+    "Atk": 80,
+    "Def": 102
+  },
+  {
+    "Nome": "Pachirisu",
+    "Hp": 60,
+    "Atk": 45,
+    "Def": 70
+  },
+  {
+    "Nome": "Buizel",
+    "Hp": 55,
+    "Atk": 65,
+    "Def": 35
+  },
+  {
+    "Nome": "Floatzel",
+    "Hp": 85,
+    "Atk": 105,
+    "Def": 55
+  },
+  {
+    "Nome": "Cherubi",
+    "Hp": 45,
+    "Atk": 35,
+    "Def": 45
+  },
+  {
+    "Nome": "Cherrim",
+    "Hp": 70,
+    "Atk": 60,
+    "Def": 70
+  },
+  {
+    "Nome": "Shellos",
+    "Hp": 76,
+    "Atk": 48,
+    "Def": 48
+  },
+  {
+    "Nome": "Gastrodon",
+    "Hp": 111,
+    "Atk": 83,
+    "Def": 68
+  },
+  {
+    "Nome": "Ambipom",
+    "Hp": 75,
+    "Atk": 100,
+    "Def": 66
+  },
+  {
+    "Nome": "Drifloon",
+    "Hp": 90,
+    "Atk": 50,
+    "Def": 34
+  },
+  {
+    "Nome": "Buneary",
+    "Hp": 55,
+    "Atk": 66,
+    "Def": 44
+  },
+  {
+    "Nome": "Lopunny",
+    "Hp": 65,
+    "Atk": 76,
+    "Def": 84
+  },
+  {
+    "Nome": "Mismagius",
+    "Hp": 60,
+    "Atk": 60,
+    "Def": 60
+  },
+  {
+    "Nome": "Honchkrow",
+    "Hp": 100,
+    "Atk": 125,
+    "Def": 52
+  },
+  {
+    "Nome": "Purugly",
+    "Hp": 71,
+    "Atk": 82,
+    "Def": 64
+  },
+  {
+    "Nome": "Chingling",
+    "Hp": 45,
+    "Atk": 30,
+    "Def": 50
+  },
+  {
+    "Nome": "Stunky",
+    "Hp": 63,
+    "Atk": 63,
+    "Def": 47
+  },
+  {
+    "Nome": "Skuntank",
+    "Hp": 103,
+    "Atk": 93,
+    "Def": 67
+  },
+  {
+    "Nome": "Bronzong",
+    "Hp": 67,
+    "Atk": 89,
+    "Def": 116
+  },
+  {
+    "Nome": "Bonsly",
+    "Hp": 50,
+    "Atk": 80,
+    "Def": 95
+  },
+  {
+    "Nome": "Mime",
+    "Hp": 0,
+    "Atk": 20,
+    "Def": 25
+  },
+  {
+    "Nome": "Chatot",
+    "Hp": 76,
+    "Atk": 65,
+    "Def": 45
+  },
+  {
+    "Nome": "Spiritomb",
+    "Hp": 50,
+    "Atk": 92,
+    "Def": 108
+  },
+  {
+    "Nome": "Gabite",
+    "Hp": 68,
+    "Atk": 90,
+    "Def": 65
+  },
+  {
+    "Nome": "Garchomp",
+    "Hp": 108,
+    "Atk": 130,
+    "Def": 95
+  },
+  {
+    "Nome": "Munchlax",
+    "Hp": 135,
+    "Atk": 85,
+    "Def": 40
+  },
+  {
+    "Nome": "Riolu",
+    "Hp": 40,
+    "Atk": 70,
+    "Def": 40
+  },
+  {
+    "Nome": "Lucario",
+    "Hp": 70,
+    "Atk": 145,
+    "Def": 88
+  },
+  {
+    "Nome": "Hippowdon",
+    "Hp": 108,
+    "Atk": 112,
+    "Def": 118
+  },
+  {
+    "Nome": "Skorupi",
+    "Hp": 40,
+    "Atk": 50,
+    "Def": 90
+  },
+  {
+    "Nome": "Drapion",
+    "Hp": 70,
+    "Atk": 90,
+    "Def": 110
+  },
+  {
+    "Nome": "Croagunk",
+    "Hp": 48,
+    "Atk": 61,
+    "Def": 40
+  },
+  {
+    "Nome": "Toxicroak",
+    "Hp": 83,
+    "Atk": 106,
+    "Def": 65
+  },
+  {
+    "Nome": "Finneon",
+    "Hp": 49,
+    "Atk": 49,
+    "Def": 56
+  },
+  {
+    "Nome": "Lumineon",
+    "Hp": 69,
+    "Atk": 69,
+    "Def": 76
+  },
+  {
+    "Nome": "Mantyke",
+    "Hp": 45,
+    "Atk": 20,
+    "Def": 50
+  },
+  {
+    "Nome": "Abomasnow",
+    "Hp": 90,
+    "Atk": 132,
+    "Def": 105
+  },
+  {
+    "Nome": "Weavile",
+    "Hp": 70,
+    "Atk": 120,
+    "Def": 65
+  },
+  {
+    "Nome": "Magnezone",
+    "Hp": 70,
+    "Atk": 70,
+    "Def": 115
+  },
+  {
+    "Nome": "Lickilicky",
+    "Hp": 110,
+    "Atk": 85,
+    "Def": 95
+  },
+  {
+    "Nome": "Rhyperior",
+    "Hp": 115,
+    "Atk": 140,
+    "Def": 130
+  },
+  {
+    "Nome": "Tangrowth",
+    "Hp": 100,
+    "Atk": 100,
+    "Def": 125
+  },
+  {
+    "Nome": "Magmortar",
+    "Hp": 75,
+    "Atk": 95,
+    "Def": 67
+  },
+  {
+    "Nome": "Togekiss",
+    "Hp": 85,
+    "Atk": 50,
+    "Def": 95
+  },
+  {
+    "Nome": "Leafeon",
+    "Hp": 65,
+    "Atk": 110,
+    "Def": 130
+  },
+  {
+    "Nome": "Glaceon",
+    "Hp": 65,
+    "Atk": 60,
+    "Def": 110
+  },
+  {
+    "Nome": "Gliscor",
+    "Hp": 75,
+    "Atk": 95,
+    "Def": 125
+  },
+  {
+    "Nome": "Mamoswine",
+    "Hp": 110,
+    "Atk": 130,
+    "Def": 80
+  },
+  {
+    "Nome": "Porygon-Z",
+    "Hp": 85,
+    "Atk": 80,
+    "Def": 70
+  },
+  {
+    "Nome": "Dusknoir",
+    "Hp": 45,
+    "Atk": 100,
+    "Def": 135
+  },
+  {
+    "Nome": "Rotom",
+    "Hp": 50,
+    "Atk": 65,
+    "Def": 107
+  },
+  {
+    "Nome": "Uxie",
+    "Hp": 75,
+    "Atk": 75,
+    "Def": 130
+  },
+  {
+    "Nome": "Mesprit",
+    "Hp": 80,
+    "Atk": 105,
+    "Def": 105
+  },
+  {
+    "Nome": "Azelf",
+    "Hp": 75,
+    "Atk": 125,
+    "Def": 70
+  },
+  {
+    "Nome": "Heatran",
+    "Hp": 91,
+    "Atk": 90,
+    "Def": 106
+  },
+  {
+    "Nome": "Regigigas",
+    "Hp": 110,
+    "Atk": 160,
+    "Def": 110
+  },
+  {
+    "Nome": "Giratina",
+    "Hp": 150,
+    "Atk": 100,
+    "Def": 120
+  },
+  {
+    "Nome": "Cresselia",
+    "Hp": 120,
+    "Atk": 70,
+    "Def": 120
+  },
+  {
+    "Nome": "Manaphy",
+    "Hp": 100,
+    "Atk": 100,
+    "Def": 100
+  },
+  {
+    "Nome": "Shaymin",
+    "Hp": 100,
+    "Atk": 100,
+    "Def": 100
+  },
+  {
+    "Nome": "Arceus",
+    "Hp": 120,
+    "Atk": 120,
+    "Def": 120
+  },
+  {
+    "Nome": "Victini",
+    "Hp": 100,
+    "Atk": 100,
+    "Def": 100
+  },
+  {
+    "Nome": "Snivy",
+    "Hp": 45,
+    "Atk": 45,
+    "Def": 55
+  },
+  {
+    "Nome": "Servine",
+    "Hp": 60,
+    "Atk": 60,
+    "Def": 75
+  },
+  {
+    "Nome": "Serperior",
+    "Hp": 75,
+    "Atk": 75,
+    "Def": 95
+  },
+  {
+    "Nome": "Tepig",
+    "Hp": 65,
+    "Atk": 63,
+    "Def": 45
+  },
+  {
+    "Nome": "Pignite",
+    "Hp": 90,
+    "Atk": 93,
+    "Def": 55
+  },
+  {
+    "Nome": "Emboar",
+    "Hp": 110,
+    "Atk": 123,
+    "Def": 65
+  },
+  {
+    "Nome": "Oshawott",
+    "Hp": 55,
+    "Atk": 55,
+    "Def": 45
+  },
+  {
+    "Nome": "Samurott",
+    "Hp": 95,
+    "Atk": 100,
+    "Def": 85
+  },
+  {
+    "Nome": "Patrat",
+    "Hp": 45,
+    "Atk": 55,
+    "Def": 39
+  },
+  {
+    "Nome": "Watchog",
+    "Hp": 60,
+    "Atk": 85,
+    "Def": 69
+  },
+  {
+    "Nome": "Lillipup",
+    "Hp": 45,
+    "Atk": 60,
+    "Def": 45
+  },
+  {
+    "Nome": "Herdier",
+    "Hp": 65,
+    "Atk": 80,
+    "Def": 65
+  },
+  {
+    "Nome": "Stoutland",
+    "Hp": 85,
+    "Atk": 110,
+    "Def": 90
+  },
+  {
+    "Nome": "Liepard",
+    "Hp": 64,
+    "Atk": 88,
+    "Def": 50
+  },
+  {
+    "Nome": "Pansage",
+    "Hp": 50,
+    "Atk": 53,
+    "Def": 48
+  },
+  {
+    "Nome": "Simisage",
+    "Hp": 75,
+    "Atk": 98,
+    "Def": 63
+  },
+  {
+    "Nome": "Pansear",
+    "Hp": 50,
+    "Atk": 53,
+    "Def": 48
+  },
+  {
+    "Nome": "Simisear",
+    "Hp": 75,
+    "Atk": 98,
+    "Def": 63
+  },
+  {
+    "Nome": "Panpour",
+    "Hp": 50,
+    "Atk": 53,
+    "Def": 48
+  },
+  {
+    "Nome": "Simipour",
+    "Hp": 75,
+    "Atk": 98,
+    "Def": 63
+  },
+  {
+    "Nome": "Munna",
+    "Hp": 76,
+    "Atk": 25,
+    "Def": 45
+  },
+  {
+    "Nome": "Pidove",
+    "Hp": 50,
+    "Atk": 55,
+    "Def": 50
+  },
+  {
+    "Nome": "Unfezant",
+    "Hp": 80,
+    "Atk": 115,
+    "Def": 80
+  },
+  {
+    "Nome": "Blitzle",
+    "Hp": 45,
+    "Atk": 60,
+    "Def": 32
+  },
+  {
+    "Nome": "Roggenrola",
+    "Hp": 55,
+    "Atk": 75,
+    "Def": 85
+  },
+  {
+    "Nome": "Boldore",
+    "Hp": 70,
+    "Atk": 105,
+    "Def": 105
+  },
+  {
+    "Nome": "Woobat",
+    "Hp": 55,
+    "Atk": 45,
+    "Def": 43
+  },
+  {
+    "Nome": "Swoobat",
+    "Hp": 67,
+    "Atk": 57,
+    "Def": 55
+  },
+  {
+    "Nome": "Excadrill",
+    "Hp": 110,
+    "Atk": 135,
+    "Def": 60
+  },
+  {
+    "Nome": "Audino",
+    "Hp": 103,
+    "Atk": 60,
+    "Def": 126
+  },
+  {
+    "Nome": "Timburr",
+    "Hp": 75,
+    "Atk": 80,
+    "Def": 55
+  },
+  {
+    "Nome": "Gurdurr",
+    "Hp": 85,
+    "Atk": 105,
+    "Def": 85
+  },
+  {
+    "Nome": "Conkeldurr",
+    "Hp": 105,
+    "Atk": 140,
+    "Def": 95
+  },
+  {
+    "Nome": "Tympole",
+    "Hp": 50,
+    "Atk": 50,
+    "Def": 40
+  },
+  {
+    "Nome": "Palpitoad",
+    "Hp": 75,
+    "Atk": 65,
+    "Def": 55
+  },
+  {
+    "Nome": "Seismitoad",
+    "Hp": 105,
+    "Atk": 95,
+    "Def": 75
+  },
+  {
+    "Nome": "Throh",
+    "Hp": 120,
+    "Atk": 100,
+    "Def": 85
+  },
+  {
+    "Nome": "Sawk",
+    "Hp": 75,
+    "Atk": 125,
+    "Def": 75
+  },
+  {
+    "Nome": "Sewaddle",
+    "Hp": 45,
+    "Atk": 53,
+    "Def": 70
+  },
+  {
+    "Nome": "Swadloon",
+    "Hp": 55,
+    "Atk": 63,
+    "Def": 90
+  },
+  {
+    "Nome": "Venipede",
+    "Hp": 30,
+    "Atk": 45,
+    "Def": 59
+  },
+  {
+    "Nome": "Scolipede",
+    "Hp": 60,
+    "Atk": 100,
+    "Def": 89
+  },
+  {
+    "Nome": "Cottonee",
+    "Hp": 40,
+    "Atk": 27,
+    "Def": 60
+  },
+  {
+    "Nome": "Whimsicott",
+    "Hp": 60,
+    "Atk": 67,
+    "Def": 85
+  },
+  {
+    "Nome": "Petilil",
+    "Hp": 45,
+    "Atk": 35,
+    "Def": 50
+  },
+  {
+    "Nome": "Lilligant",
+    "Hp": 70,
+    "Atk": 60,
+    "Def": 75
+  },
+  {
+    "Nome": "Basculin",
+    "Hp": 70,
+    "Atk": 92,
+    "Def": 65
+  },
+  {
+    "Nome": "Sandile",
+    "Hp": 50,
+    "Atk": 72,
+    "Def": 35
+  },
+  {
+    "Nome": "Krookodile",
+    "Hp": 95,
+    "Atk": 117,
+    "Def": 80
+  },
+  {
+    "Nome": "Darumaka",
+    "Hp": 70,
+    "Atk": 90,
+    "Def": 45
+  },
+  {
+    "Nome": "Darmanitan",
+    "Hp": 105,
+    "Atk": 30,
+    "Def": 105
+  },
+  {
+    "Nome": "Maractus",
+    "Hp": 75,
+    "Atk": 86,
+    "Def": 67
+  },
+  {
+    "Nome": "Dwebble",
+    "Hp": 50,
+    "Atk": 65,
+    "Def": 85
+  },
+  {
+    "Nome": "Crustle",
+    "Hp": 70,
+    "Atk": 95,
+    "Def": 125
+  },
+  {
+    "Nome": "Scraggy",
+    "Hp": 50,
+    "Atk": 75,
+    "Def": 70
+  },
+  {
+    "Nome": "Scrafty",
+    "Hp": 65,
+    "Atk": 90,
+    "Def": 115
+  },
+  {
+    "Nome": "Yamask",
+    "Hp": 38,
+    "Atk": 30,
+    "Def": 85
+  },
+  {
+    "Nome": "Cofagrigus",
+    "Hp": 58,
+    "Atk": 50,
+    "Def": 145
+  },
+  {
+    "Nome": "Tirtouga",
+    "Hp": 54,
+    "Atk": 78,
+    "Def": 103
+  },
+  {
+    "Nome": "Carracosta",
+    "Hp": 74,
+    "Atk": 108,
+    "Def": 133
+  },
+  {
+    "Nome": "Archen",
+    "Hp": 55,
+    "Atk": 112,
+    "Def": 45
+  },
+  {
+    "Nome": "Trubbish",
+    "Hp": 50,
+    "Atk": 50,
+    "Def": 62
+  },
+  {
+    "Nome": "Garbodor",
+    "Hp": 80,
+    "Atk": 95,
+    "Def": 82
+  },
+  {
+    "Nome": "Zorua",
+    "Hp": 40,
+    "Atk": 65,
+    "Def": 40
+  },
+  {
+    "Nome": "Minccino",
+    "Hp": 55,
+    "Atk": 50,
+    "Def": 40
+  },
+  {
+    "Nome": "Gothita",
+    "Hp": 45,
+    "Atk": 30,
+    "Def": 50
+  },
+  {
+    "Nome": "Gothorita",
+    "Hp": 60,
+    "Atk": 45,
+    "Def": 70
+  },
+  {
+    "Nome": "Gothitelle",
+    "Hp": 70,
+    "Atk": 55,
+    "Def": 95
+  },
+  {
+    "Nome": "Solosis",
+    "Hp": 45,
+    "Atk": 30,
+    "Def": 40
+  },
+  {
+    "Nome": "Duosion",
+    "Hp": 65,
+    "Atk": 40,
+    "Def": 50
+  },
+  {
+    "Nome": "Reuniclus",
+    "Hp": 110,
+    "Atk": 65,
+    "Def": 75
+  },
+  {
+    "Nome": "Swanna",
+    "Hp": 75,
+    "Atk": 87,
+    "Def": 63
+  },
+  {
+    "Nome": "Vanillite",
+    "Hp": 36,
+    "Atk": 50,
+    "Def": 50
+  },
+  {
+    "Nome": "Vanillish",
+    "Hp": 51,
+    "Atk": 65,
+    "Def": 65
+  },
+  {
+    "Nome": "Vanilluxe",
+    "Hp": 71,
+    "Atk": 95,
+    "Def": 85
+  },
+  {
+    "Nome": "Deerling",
+    "Hp": 60,
+    "Atk": 60,
+    "Def": 50
+  },
+  {
+    "Nome": "Emolga",
+    "Hp": 55,
+    "Atk": 75,
+    "Def": 60
+  },
+  {
+    "Nome": "Karrablast",
+    "Hp": 50,
+    "Atk": 75,
+    "Def": 45
+  },
+  {
+    "Nome": "Escavalier",
+    "Hp": 70,
+    "Atk": 135,
+    "Def": 105
+  },
+  {
+    "Nome": "Foongus",
+    "Hp": 69,
+    "Atk": 55,
+    "Def": 45
+  },
+  {
+    "Nome": "Amoonguss",
+    "Hp": 114,
+    "Atk": 85,
+    "Def": 70
+  },
+  {
+    "Nome": "Frillish",
+    "Hp": 55,
+    "Atk": 40,
+    "Def": 50
+  },
+  {
+    "Nome": "Jellicent",
+    "Hp": 100,
+    "Atk": 60,
+    "Def": 70
+  },
+  {
+    "Nome": "Alomomola",
+    "Hp": 165,
+    "Atk": 75,
+    "Def": 80
+  },
+  {
+    "Nome": "Joltik",
+    "Hp": 50,
+    "Atk": 47,
+    "Def": 50
+  },
+  {
+    "Nome": "Galvantula",
+    "Hp": 70,
+    "Atk": 77,
+    "Def": 60
+  },
+  {
+    "Nome": "Ferroseed",
+    "Hp": 44,
+    "Atk": 50,
+    "Def": 91
+  },
+  {
+    "Nome": "Ferrothorn",
+    "Hp": 74,
+    "Atk": 94,
+    "Def": 131
+  },
+  {
+    "Nome": "Klink",
+    "Hp": 40,
+    "Atk": 55,
+    "Def": 70
+  },
+  {
+    "Nome": "Klang",
+    "Hp": 60,
+    "Atk": 80,
+    "Def": 95
+  },
+  {
+    "Nome": "Klinklang",
+    "Hp": 60,
+    "Atk": 100,
+    "Def": 115
+  },
+  {
+    "Nome": "Tynamo",
+    "Hp": 35,
+    "Atk": 55,
+    "Def": 40
+  },
+  {
+    "Nome": "Eelektrik",
+    "Hp": 65,
+    "Atk": 85,
+    "Def": 70
+  },
+  {
+    "Nome": "Eelektross",
+    "Hp": 85,
+    "Atk": 115,
+    "Def": 80
+  },
+  {
+    "Nome": "Elgyem",
+    "Hp": 55,
+    "Atk": 55,
+    "Def": 55
+  },
+  {
+    "Nome": "Beheeyem",
+    "Hp": 75,
+    "Atk": 75,
+    "Def": 75
+  },
+  {
+    "Nome": "Litwick",
+    "Hp": 50,
+    "Atk": 30,
+    "Def": 55
+  },
+  {
+    "Nome": "Lampent",
+    "Hp": 60,
+    "Atk": 40,
+    "Def": 60
+  },
+  {
+    "Nome": "Chandelure",
+    "Hp": 60,
+    "Atk": 55,
+    "Def": 90
+  },
+  {
+    "Nome": "Axew",
+    "Hp": 46,
+    "Atk": 87,
+    "Def": 60
+  },
+  {
+    "Nome": "Fraxure",
+    "Hp": 66,
+    "Atk": 117,
+    "Def": 70
+  },
+  {
+    "Nome": "Haxorus",
+    "Hp": 76,
+    "Atk": 147,
+    "Def": 90
+  },
+  {
+    "Nome": "Cubchoo",
+    "Hp": 55,
+    "Atk": 70,
+    "Def": 40
+  },
+  {
+    "Nome": "Beartic",
+    "Hp": 95,
+    "Atk": 110,
+    "Def": 80
+  },
+  {
+    "Nome": "Cryogonal",
+    "Hp": 70,
+    "Atk": 50,
+    "Def": 30
+  },
+  {
+    "Nome": "Shelmet",
+    "Hp": 50,
+    "Atk": 40,
+    "Def": 85
+  },
+  {
+    "Nome": "Accelgor",
+    "Hp": 80,
+    "Atk": 70,
+    "Def": 40
+  },
+  {
+    "Nome": "Stunfisk",
+    "Hp": 109,
+    "Atk": 66,
+    "Def": 84
+  },
+  {
+    "Nome": "Mienfoo",
+    "Hp": 45,
+    "Atk": 85,
+    "Def": 50
+  },
+  {
+    "Nome": "Druddigon",
+    "Hp": 77,
+    "Atk": 120,
+    "Def": 90
+  },
+  {
+    "Nome": "Golett",
+    "Hp": 59,
+    "Atk": 74,
+    "Def": 50
+  },
+  {
+    "Nome": "Golurk",
+    "Hp": 89,
+    "Atk": 124,
+    "Def": 80
+  },
+  {
+    "Nome": "Pawniard",
+    "Hp": 45,
+    "Atk": 85,
+    "Def": 70
+  },
+  {
+    "Nome": "Bisharp",
+    "Hp": 65,
+    "Atk": 125,
+    "Def": 100
+  },
+  {
+    "Nome": "Bouffalant",
+    "Hp": 95,
+    "Atk": 110,
+    "Def": 95
+  },
+  {
+    "Nome": "Rufflet",
+    "Hp": 70,
+    "Atk": 83,
+    "Def": 50
+  },
+  {
+    "Nome": "Braviary",
+    "Hp": 100,
+    "Atk": 123,
+    "Def": 75
+  },
+  {
+    "Nome": "Vullaby",
+    "Hp": 70,
+    "Atk": 55,
+    "Def": 75
+  },
+  {
+    "Nome": "Mandibuzz",
+    "Hp": 110,
+    "Atk": 65,
+    "Def": 105
+  },
+  {
+    "Nome": "Heatmor",
+    "Hp": 85,
+    "Atk": 97,
+    "Def": 66
+  },
+  {
+    "Nome": "Durant",
+    "Hp": 58,
+    "Atk": 109,
+    "Def": 112
+  },
+  {
+    "Nome": "Deino",
+    "Hp": 52,
+    "Atk": 65,
+    "Def": 50
+  },
+  {
+    "Nome": "Zweilous",
+    "Hp": 72,
+    "Atk": 85,
+    "Def": 70
+  },
+  {
+    "Nome": "Hydreigon",
+    "Hp": 92,
+    "Atk": 105,
+    "Def": 90
+  },
+  {
+    "Nome": "Larvesta",
+    "Hp": 55,
+    "Atk": 85,
+    "Def": 55
+  },
+  {
+    "Nome": "Volcarona",
+    "Hp": 85,
+    "Atk": 60,
+    "Def": 65
+  },
+  {
+    "Nome": "Cobalion",
+    "Hp": 91,
+    "Atk": 90,
+    "Def": 129
+  },
+  {
+    "Nome": "Virizion",
+    "Hp": 91,
+    "Atk": 90,
+    "Def": 72
+  },
+  {
+    "Nome": "Tornadus",
+    "Hp": 79,
+    "Atk": 115,
+    "Def": 70
+  },
+  {
+    "Nome": "Thundurus",
+    "Hp": 79,
+    "Atk": 105,
+    "Def": 70
+  },
+  {
+    "Nome": "Reshiram",
+    "Hp": 100,
+    "Atk": 120,
+    "Def": 100
+  },
+  {
+    "Nome": "Landorus",
+    "Hp": 89,
+    "Atk": 145,
+    "Def": 90
+  },
+  {
+    "Nome": "Kyurem",
+    "Hp": 125,
+    "Atk": 120,
+    "Def": 90
+  },
+  {
+    "Nome": "Keldeo",
+    "Hp": 91,
+    "Atk": 72,
+    "Def": 90
+  },
+  {
+    "Nome": "Chespin",
+    "Hp": 56,
+    "Atk": 61,
+    "Def": 65
+  },
+  {
+    "Nome": "Chesnaught",
+    "Hp": 88,
+    "Atk": 107,
+    "Def": 122
+  },
+  {
+    "Nome": "Braixen",
+    "Hp": 59,
+    "Atk": 59,
+    "Def": 58
+  },
+  {
+    "Nome": "Froakie",
+    "Hp": 41,
+    "Atk": 56,
+    "Def": 40
+  },
+  {
+    "Nome": "Frogadier",
+    "Hp": 54,
+    "Atk": 63,
+    "Def": 52
+  },
+  {
+    "Nome": "Greninja",
+    "Hp": 72,
+    "Atk": 95,
+    "Def": 67
+  },
+  {
+    "Nome": "Diggersby",
+    "Hp": 85,
+    "Atk": 56,
+    "Def": 77
+  },
+  {
+    "Nome": "Fletchling",
+    "Hp": 45,
+    "Atk": 50,
+    "Def": 43
+  },
+  {
+    "Nome": "Fletchinder",
+    "Hp": 62,
+    "Atk": 73,
+    "Def": 55
+  },
+  {
+    "Nome": "Talonflame",
+    "Hp": 78,
+    "Atk": 81,
+    "Def": 71
+  },
+  {
+    "Nome": "Spewpa",
+    "Hp": 45,
+    "Atk": 22,
+    "Def": 60
+  },
+  {
+    "Nome": "Litleo",
+    "Hp": 62,
+    "Atk": 50,
+    "Def": 58
+  },
+  {
+    "Nome": "Pyroar",
+    "Hp": 86,
+    "Atk": 68,
+    "Def": 72
+  },
+  {
+    "Nome": "FlabŽbŽ",
+    "Hp": 44,
+    "Atk": 38,
+    "Def": 39
+  },
+  {
+    "Nome": "Floette",
+    "Hp": 54,
+    "Atk": 45,
+    "Def": 47
+  },
+  {
+    "Nome": "Florges",
+    "Hp": 78,
+    "Atk": 65,
+    "Def": 68
+  },
+  {
+    "Nome": "Skiddo",
+    "Hp": 66,
+    "Atk": 65,
+    "Def": 48
+  },
+  {
+    "Nome": "Gogoat",
+    "Hp": 123,
+    "Atk": 100,
+    "Def": 62
+  },
+  {
+    "Nome": "Pancham",
+    "Hp": 67,
+    "Atk": 82,
+    "Def": 62
+  },
+  {
+    "Nome": "Furfrou",
+    "Hp": 75,
+    "Atk": 80,
+    "Def": 60
+  },
+  {
+    "Nome": "Espurr",
+    "Hp": 62,
+    "Atk": 48,
+    "Def": 54
+  },
+  {
+    "Nome": "Meowstic",
+    "Hp": 74,
+    "Atk": 48,
+    "Def": 76
+  },
+  {
+    "Nome": "Doublade",
+    "Hp": 59,
+    "Atk": 110,
+    "Def": 150
+  },
+  {
+    "Nome": "Aegislash",
+    "Hp": 60,
+    "Atk": 50,
+    "Def": 150
+  },
+  {
+    "Nome": "Aromatisse",
+    "Hp": 101,
+    "Atk": 72,
+    "Def": 72
+  },
+  {
+    "Nome": "Swirlix",
+    "Hp": 62,
+    "Atk": 48,
+    "Def": 66
+  },
+  {
+    "Nome": "Slurpuff",
+    "Hp": 82,
+    "Atk": 80,
+    "Def": 86
+  },
+  {
+    "Nome": "Malamar",
+    "Hp": 86,
+    "Atk": 92,
+    "Def": 88
+  },
+  {
+    "Nome": "Barbaracle",
+    "Hp": 72,
+    "Atk": 105,
+    "Def": 115
+  },
+  {
+    "Nome": "Skrelp",
+    "Hp": 50,
+    "Atk": 60,
+    "Def": 60
+  },
+  {
+    "Nome": "Dragalge",
+    "Hp": 65,
+    "Atk": 75,
+    "Def": 90
+  },
+  {
+    "Nome": "Clauncher",
+    "Hp": 50,
+    "Atk": 53,
+    "Def": 62
+  },
+  {
+    "Nome": "Clawitzer",
+    "Hp": 71,
+    "Atk": 73,
+    "Def": 88
+  },
+  {
+    "Nome": "Helioptile",
+    "Hp": 44,
+    "Atk": 38,
+    "Def": 33
+  },
+  {
+    "Nome": "Heliolisk",
+    "Hp": 62,
+    "Atk": 55,
+    "Def": 52
+  },
+  {
+    "Nome": "Tyrunt",
+    "Hp": 58,
+    "Atk": 89,
+    "Def": 77
+  },
+  {
+    "Nome": "Tyrantrum",
+    "Hp": 82,
+    "Atk": 121,
+    "Def": 119
+  },
+  {
+    "Nome": "Amaura",
+    "Hp": 77,
+    "Atk": 59,
+    "Def": 50
+  },
+  {
+    "Nome": "Aurorus",
+    "Hp": 123,
+    "Atk": 77,
+    "Def": 72
+  },
+  {
+    "Nome": "Sylveon",
+    "Hp": 95,
+    "Atk": 65,
+    "Def": 65
+  },
+  {
+    "Nome": "Dedenne",
+    "Hp": 67,
+    "Atk": 58,
+    "Def": 57
+  },
+  {
+    "Nome": "Carbink",
+    "Hp": 50,
+    "Atk": 50,
+    "Def": 150
+  },
+  {
+    "Nome": "Goomy",
+    "Hp": 45,
+    "Atk": 50,
+    "Def": 35
+  },
+  {
+    "Nome": "Sliggoo",
+    "Hp": 68,
+    "Atk": 75,
+    "Def": 53
+  },
+  {
+    "Nome": "Goodra",
+    "Hp": 90,
+    "Atk": 100,
+    "Def": 70
+  },
+  {
+    "Nome": "Klefki",
+    "Hp": 57,
+    "Atk": 80,
+    "Def": 91
+  },
+  {
+    "Nome": "Trevenant",
+    "Hp": 85,
+    "Atk": 110,
+    "Def": 76
+  },
+  {
+    "Nome": "Pumpkaboo",
+    "Hp": 49,
+    "Atk": 66,
+    "Def": 70
+  },
+  {
+    "Nome": "Gourgeist",
+    "Hp": 75,
+    "Atk": 95,
+    "Def": 122
+  },
+  {
+    "Nome": "Avalugg",
+    "Hp": 95,
+    "Atk": 117,
+    "Def": 184
+  },
+  {
+    "Nome": "Noivern",
+    "Hp": 85,
+    "Atk": 70,
+    "Def": 80
+  },
+  {
+    "Nome": "Xerneas",
+    "Hp": 126,
+    "Atk": 131,
+    "Def": 95
+  },
+  {
+    "Nome": "Yveltal",
+    "Hp": 126,
+    "Atk": 131,
+    "Def": 95
+  },
+  {
+    "Nome": "Zygarde",
+    "Hp": 108,
+    "Atk": 100,
+    "Def": 121
+  },
+  {
+    "Nome": "Diancie",
+    "Hp": 50,
+    "Atk": 100,
+    "Def": 150
+  },
+  {
+    "Nome": "Hoopa",
+    "Hp": 80,
+    "Atk": 110,
+    "Def": 60
+  },
+  {
+    "Nome": "Volcanion",
+    "Hp": 80,
+    "Atk": 110,
+    "Def": 120
+  }
+]
