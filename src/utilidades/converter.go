@@ -23,9 +23,10 @@ func main() {
 }
 
 func lerArquivo() {
-	arq1, err := os.Open("/pokemons.txt")
+	arq1, err := os.Open("../../public/pokemons.txt")
 
 	if err != nil {
+		panic(err)
 		fmt.Println("OI")
 		return
 	}
@@ -49,11 +50,12 @@ func lerArquivo() {
 		}
 
 		split := strings.Split(registro, " ")
+		tamanho := len(split)
 
-		nome := split[0]
-		hp, _ := strconv.Atoi(split[1])
-		atk, _ := strconv.Atoi(split[2])
-		def, _ := strconv.Atoi(split[3])
+		nome := strings.Join(split[:tamanho-3], " ")
+		hp, _ := strconv.Atoi(split[tamanho-3])
+		atk, _ := strconv.Atoi(split[tamanho-2])
+		def, _ := strconv.Atoi(split[tamanho-1])
 		pokemon := Pokemon{nome, hp, atk, def}
 		pokemons = append(pokemons, pokemon)
 		contador++
@@ -63,9 +65,10 @@ func lerArquivo() {
 }
 
 func escreverArquivo() {
-	arq2, err := os.Create("/pokemons.json")
+	arq2, err := os.Create("./pokemons.json")
 
 	if err != nil {
+		fmt.Println("oioio", err)
 		return
 	}
 
